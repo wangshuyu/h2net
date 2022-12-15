@@ -1,5 +1,7 @@
 # 如何使用
 直接下载build.bat, 然后cmd下执行, 然后在根目录出来个h2.dll, 在.net下直接引用这个h2.dll就可以啦
+@REM 参考权威的的h2.dll，重新编译新版本
+@REM https://github.com/orudge/h2net/blob/master/build.bat
 
 # H2 .NET NuGet package
 This repository contains the build scripts necessary to generate the H2 .NET NuGet package.
